@@ -1,0 +1,10 @@
+﻿{
+	"id": "OnlinePlayMod- Rex0099",
+	"name": "OnlinePlay",
+	"version": "0.0.1 TEST",
+	"author": "Rex0099",
+	"url": "",
+	"description": "Play Online with friends or publicly!",
+	"main": "./OnlinePlay.js",
+	"dependencies" : {"UltimateLib":"1.x.x"}
+}
